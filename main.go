@@ -54,11 +54,7 @@ var links = []string{
 }
 
 var dirLinks = []string{
-"https://github.com/sevcator/5ubscrpt10n/raw/refs/heads/main/working/countries/Iran.txt",
-"https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
-"https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Country/IR.txt",
-"https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Splitted-By-Country/IR.txt",
-"https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/country/IR.txt",
+"https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Splitted-By-Country/Unknown.txt",
 }
 
 type Result struct {
