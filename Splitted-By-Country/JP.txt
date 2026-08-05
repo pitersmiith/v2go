@@ -1,1 +1,1 @@
-vless://fabe1eb5-8700-44c4-ab87-41040573c3af@n01.948905.xyz:15891?fp=chrome&pbk=kA4XIljzyvsXWOC5Y3imypg2yb0UUvfSt_JfB94U3k4&security=reality&sid=&sni=vd3.bdstatic.com&type=tcp#v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%2040651
+trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=busy-lab.rooster465.autos#v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%2038492

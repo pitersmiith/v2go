@@ -1,2 +1,0 @@
-vless://28b83d3d-4136-4289-b95f-042d518c4418@fardad-nl.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2011414
-vless://ae5f5f2a-fdb8-40f4-99fb-402ae4cddb89@vd.outlinevpn.cc:21035/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=music.yandex.ru&fp=chrome&security=reality&pbk=aUni6oIrjPVV7Mb009sOYY6pWOFYDD6RzqEW3BX8DCQ&sid=ec#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2032853
