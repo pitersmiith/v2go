@@ -1,0 +1,1 @@
+vless://5a6b00b0-5554-42d1-a1e7-3c93d5b21e9d@ge.livevpns.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge.livevpns.ru&fp=firefox&pbk=oproSE51zPq7v-sbPB17932je_vsLFsSVAVO72qhfhc&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2041565
