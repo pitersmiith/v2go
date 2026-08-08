@@ -1,1 +1,3 @@
-trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv4.hosttbd.ir:10004?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%2044429
+trojan://ersi13mjahoao8e6@cctvhikvision.center:443?path=/dksk&security=tls&alpn=http/1.1&insecure=0&host=ramz.xuithree.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=ramz.xuithree.dpdns.org#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%209423
+vless://40187c6d-7cd7-4757-a07c-af8c7145b102@cctvhikvision.center:443?encryption=none&security=tls&sni=don.blueknightnett.qzz.io&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=don.blueknightnett.qzz.io&path=/BlueKnight#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2014660
+trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv4.hosttbd.ir:10004?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%2044526
