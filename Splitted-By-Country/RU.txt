@@ -1,1 +1,0 @@
-vless://a68a9249-89db-476e-8f3c-d946d91f619f@cloudberry-n9d4xk.vkvideo-cdn.com:443?sni=cloudberry-n9d4xk.vkvideo-cdn.com&alpn=h2&fp=firefox&security=tls#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%2016034

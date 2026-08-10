@@ -1,3 +1,2 @@
-vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&type=tcp&headerType=http&host=google.com&path=/&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2028418
-vless://9913c8f2-cdb0-4639-86b2-130c49803c91@paradoxone.ir:2095?path=%2F%3Fed%3D2052&security=none&encryption=none&host=vipx4.paradoxone.ir&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2028900
-vless://405b5c14-a6d3-4fe7-90ea-855712db6df0@ger1bot-ws.headerip.com:80?security=none&type=ws&headerType=&path=%2F&host=ger1.mv5.ir#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2029232
+vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&type=tcp&headerType=http&host=google.com&path=/&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2028296
+vless://9913c8f2-cdb0-4639-86b2-130c49803c91@paradoxone.ir:2095?path=%2F%3Fed%3D2052&security=none&encryption=none&host=vipx4.paradoxone.ir&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2028387
