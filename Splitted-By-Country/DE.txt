@@ -1,1 +1,2 @@
-vless://5ee33caf-7223-4b7e-9406-4cc997179337@ir2.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=ir2.amirghmehdiat.ir&path=/6113&security=tls&sni=ir2.amirghmehdiat.ir&type=httpupgrade#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2015562
+vless://80d9c97b-fa23-4ce9-bbfb-555a732c35e9@dgvleGGB9EDDC.zostoree.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2027561
+vless://PhoenixNTWK@de-panel.momoeint1.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/@PhoenixNTWK#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2044683

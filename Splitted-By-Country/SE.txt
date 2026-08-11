@@ -1,1 +1,0 @@
-vless://2ba2514d-77fd-ed82-685c-775fd8810793@ws.aiteamplus.ir:1080?&security=tls&sni=hcaptcha.com&type=ws&headerType=none&host=hcaptcha.com&path=%2F#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2015716
