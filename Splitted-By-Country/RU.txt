@@ -1,2 +1,0 @@
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@vcdn-api6.game-call.com:443?&security=tls&fp=edge&alpn=h2%2Chttp%2F1.1&sni=vcdn-api6.game-call.com&type=xhttp#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%2024322
-vless://cceee079-de5d-44b4-a301-e9b46b40f685@nl48.lowlatency.cloud:443?path=%2F3eca4841-7a11-4bda-9048-21c408f8ea45&security=tls&encryption=none&host=nl48.lowlatency.cloud&fp=QQ&type=ws&sni=nl48.lowlatency.cloud#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%2042236
