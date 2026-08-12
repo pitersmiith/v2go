@@ -1,1 +1,1 @@
-vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@Helsinki1-h.FaraSorat.net:443?path=%2FpV67LRFs428xHke56mDQ&security=tls&encryption=none&host=Helsinki1.FaraSorat.net&type=ws&sni=gift-4101664.FaraSorat.Net#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2025856
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@Helsinki1-h.FaraSorat.net:443?path=%2FpV67LRFs428xHke56mDQ&security=tls&encryption=none&host=Helsinki1.FaraSorat.net&type=ws&sni=gift-4101664.FaraSorat.Net#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2045047
