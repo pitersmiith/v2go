@@ -1,1 +1,0 @@
-vless://72d33e6f-2067-4607-8056-fa45e1967b0c@srv7.outlinekeys.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sni=srv7.outlinekeys.com&packetEncoding=xudp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%2042534
