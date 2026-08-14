@@ -1,0 +1,1 @@
+vless://56d72e97-c98a-43fd-94f1-798dfdc7af73@canada.zestmarket.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%2026780

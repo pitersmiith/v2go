@@ -1,1 +1,0 @@
-vless://9d59677e-df00-4918-bb03-e428cfc7c606@de6.safepass.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=tcp#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%2026954
