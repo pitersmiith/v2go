@@ -1,0 +1,1 @@
+vless://3710a4cf-e2c2-40c6-a93a-32bbc1d05737@lv.fluxorvpn.net:443?security=reality&encryption=none&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&headerType=&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ozone.ru&sid=189cfa69#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2044052

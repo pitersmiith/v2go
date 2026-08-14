@@ -1,2 +1,0 @@
-vless://1fd78c1d-be5d-427b-ba03-39221ba6c535@beatr-ma1.599789.xyz:10298?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=KZUlOnK6frAx_HFpwG0TGu-Lwhtu4507gIGNsLK-kko&sid=d0b14a7f0c52&sni=www.cloudflare.com&fp=qq&alpn=http%2F1.1#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%2022136
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20TROJAN%20%7C%2022248
