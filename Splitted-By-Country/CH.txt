@@ -1,1 +1,1 @@
-vless://d1ca6c5b-31d7-47d2-973e-f76ab614c0a1@media2.onevanet.ir:8876?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%2044787
+vless://d1ca6c5b-31d7-47d2-973e-f76ab614c0a1@media2.onevanet.ir:8876?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%2044620

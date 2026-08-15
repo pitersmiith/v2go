@@ -1,1 +1,1 @@
-vless://5c21bbcf-d4f6-4fb6-9864-72c4ddbd21d7@xxx0804.ly123.edu.kg:443?flow=xtls-rprx-vision&fp=ios&pbk=vv7fKAg_drFncfJq16XQoXcMxcT8m5VQ4Lw-kQT0Jh4&security=reality&sid=00a735b91f0e&sni=sg-hyp-api.hoyoverse.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%2021522
+vless://5c21bbcf-d4f6-4fb6-9864-72c4ddbd21d7@xxx0804.ly123.edu.kg:443?flow=xtls-rprx-vision&fp=ios&pbk=vv7fKAg_drFncfJq16XQoXcMxcT8m5VQ4Lw-kQT0Jh4&security=reality&sid=00a735b91f0e&sni=sg-hyp-api.hoyoverse.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%2016827
