@@ -1,4 +1,0 @@
-vless://a1894876-1e93-4375-b29c-460527d7ebc3@vip7.rahatnet.com:2053?type=tcp&security=none&path=/#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2036187
-vless://57021f5c-8a89-4f87-8c12-e25d3d4d75d4@fi.cncta.net:443?type=tcp&security=reality&sni=www.kinopoisk.ru&flow=xtls-rprx-vision&pbk=RkjV_1__FGUXN_VA61Gp5R5dgfjk0K5jCbcy92raBUM#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2044443
-vless://f43f0874-011c-4ef3-8429-cb061889a9db@finip.roomode.ir:8443?type=tcp&encryption=none&host=play.google#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2044497
-vless://e1dd4ae2-8eed-485c-abd3-877e3c85d301@finip.roomode.ir:2023?type=tcp&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=tkOxz7m1wnMth1DR2ia_DGqBB36biXU-tQyseEYtHhM&sid=769675e2a7e438bb&spx=#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2044498

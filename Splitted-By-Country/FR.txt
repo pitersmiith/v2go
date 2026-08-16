@@ -1,3 +1,0 @@
-vless://2372f9bc-bb0b-4adc-909f-cf8f0252a880@fardad-no.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2020560
-vless://c5541eb9-7810-4be3-988b-6bbf515a7834@fr3.niekotin.de:80?path=%2Fvless&security=&encryption=none&host=fr3.niekotin.de&type=ws#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2026547
-vless://5cdcbd83-0742-4f45-a098-02340aa18f2b@n5.droonix.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=n5.droonix.ir&type=ws&allowInsecure=0&sni=n5.droonix.ir#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2044460
