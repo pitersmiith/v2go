@@ -1,0 +1,2 @@
+vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@tomkr.kuaimiao.online:2053?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=safari#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20VLESS%20%7C%2025288
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20TROJAN%20%7C%2025453

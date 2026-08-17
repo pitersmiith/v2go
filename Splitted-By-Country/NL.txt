@@ -1,0 +1,1 @@
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%2043508

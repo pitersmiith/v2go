@@ -1,0 +1,1 @@
+vless://80d38a33-a9f6-462e-8bf2-3d627be0b404@pk-google.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%2044365

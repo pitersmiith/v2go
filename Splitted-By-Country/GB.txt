@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%2027809
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@jp.musicwave.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.musicwave.net&fp=firefox&pbk=qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08&sid=825d392c67e4&spx=%2F&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%2043659
