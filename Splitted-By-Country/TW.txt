@@ -1,3 +1,0 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443/?type=tcp&security=tls#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%2023822
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443/?type=tcp&security=tls#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%2025431
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%2025638
