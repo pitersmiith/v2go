@@ -1,21 +1,21 @@
 # V2Ray Config Update Summary
-Generated on: 2026-08-17 14:03:52 UTC
+Generated on: 2026-08-18 03:26:27 UTC
 
 ## Configuration Statistics
-- Total unique configurations: 0
+- Total unique configurations: 44873
 - Protocol breakdown:
-  - vmess: 0 configs
-  - vless: 0 configs
-  - trojan: 0 configs
-  - ss: 0 configs
+  - vmess: 5633 configs
+  - vless: 30763 configs
+  - trojan: 4746 configs
+  - ss: 3730 configs
   - ssr: 0 configs
-  - hy2: 0 configs
+  - hy2: 1 configs
   - tuic: 0 configs
   - warp://: 0 configs
 
 ## Performance
-- Processing time: 3.52 seconds
+- Processing time: 14.67 seconds
+- Duplicate removal: 1.4% reduction (from 45521 to 44873)
 
-## ⚠️ Failed Links (404 or Errors)
-The following sources could not be reached or returned no data:
-- https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Splitted-By-Country/Unknown.txt (HTTP 429)
+## ✅ All Sources Successful
+All configured sources were reached successfully.

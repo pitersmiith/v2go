@@ -1,0 +1,1 @@
+vless://9de60b66-8b6a-4f50-b1e1-854ceb214eb1@m10r.speedtestmark.com:443?sni=m10r.speedtestmark.com&flow=xtls-rprx-vision-udp443&fp=randomized&security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2036850
