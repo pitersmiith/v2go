@@ -1,1 +1,1 @@
-vless://604d28d4-5863-49e9-b991-c6c0090c5c4d@ist.chalghooz.lat:8443?encryption=none&host=ist.chalghooz.lat&insecure=0&fp=chrome&path=/fastgames&sni=ist.chalghooz.lat&security=tls&allowInsecure=0&type=ws#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%2014406
+vless://793bab08-60f8-4a93-b78e-3b2bd7cf4d80@turk.villy-tun.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FH%3Fed%3D2560&host=turk.villy-tun.ir&sni=turk.villy-tun.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%2043685
