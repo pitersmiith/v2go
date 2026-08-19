@@ -1,1 +1,0 @@
-vless://13ab7444-2956-46a4-acf1-7f1d9d099381@fi-hel-hostvds-05.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2043708

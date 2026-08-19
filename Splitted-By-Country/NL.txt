@@ -1,1 +1,0 @@
-vless://c527ff33-208a-45f8-96d2-07471759b6b9@gig.fifapes.monster:45058?encryption=none&type=tcp&headerType=http&path=/&host=diwork.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2010386

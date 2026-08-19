@@ -1,2 +1,0 @@
-vless://6a3292dc-fcfb-4d62-84cc-35bb8578772a@admin.console.support.admin.iranvatanam.com:700?&type=http#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2015508
-vless://dbb1102e-d6da-a3d3-2c9e-fec3b49ec257@i-love-iran.amlakayuni.ir:2087?path=%3Fed%3D2087&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&sni=i-love-iran.amlakayuni.ir#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2043688

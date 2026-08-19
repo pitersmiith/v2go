@@ -1,2 +1,0 @@
-trojan://RJvy9tO9DC@ge2.xxee.ru:443?type=grpc&security=tls&alpn=h2,http/1.1&fp=firefox&serviceName=/12262/UEqJYxhF&authority=ge2.xxee.ru#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%2043678
-vless://d7863880-7130-49fc-9202-a2fd5b5620b2@art-de.igatel.com:8527?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&sid=62ad184af31fc8cf&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2043705
