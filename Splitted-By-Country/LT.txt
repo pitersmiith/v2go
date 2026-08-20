@@ -1,0 +1,2 @@
+vless://1e5dc41f-6d94-4cd9-961d-cb57bc2e55d9@olds-3.lubbs.de:2086?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=nim-art3.mimkiscx.ir#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%2016404
+vless://1e5dc41f-6d94-4cd9-961d-cb57bc2e55d9@olds-3.lubbs.de:2053?&security=tls&fp=chrome&sni=nim-art3.mimkiscx.ir&type=xhttp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%2016405
