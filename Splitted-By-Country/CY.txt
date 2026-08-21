@@ -1,0 +1,1 @@
+vless://turboo-server@dns.turboo-server.space:443?path=%2Fturboo-server&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=serverpro.turbooo-server.com&fp=chrome&type=ws&allowInsecure=0&sni=serverpro.turbooo-server.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%2015256

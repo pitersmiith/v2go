@@ -1,1 +1,0 @@
-vless://250e7b31-785b-4047-98dc-b2264b9894f0@ru.invisevps.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MFOi9VpBg-LVIkVKKZxkS3s6gqAW_nNwKOSGecvl-yo&sni=ru.invisevps.ru#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%2037755
