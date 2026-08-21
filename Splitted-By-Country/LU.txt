@@ -1,4 +1,0 @@
-vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2096?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=hapoo.kabotarkhiyali.ir&type=xhttp&allowInsecure=0#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%2028247
-ss://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2086?mode=auto&path=%2F&security=none&encryption=none&host=Lat.kabotarkhiyali.ir&type=xhttp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20SS%20%7C%2028248
-ss://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2096?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=hapoo.kabotarkhiyali.ir&type=xhttp&allowInsecure=0#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20SS%20%7C%2028249
-vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2086?mode=auto&path=%2F&security=none&encryption=none&host=Lat.kabotarkhiyali.ir&type=xhttp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%2028250

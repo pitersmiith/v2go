@@ -1,0 +1,1 @@
+vless://f61b2652-fb1a-4d21-91bd-c4829e400272@akede.ghostnode.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=akede.ghostnode.lol&fp=chrome&pbk=13-YskgqresFnDUuKJ9uapgX8lCm3k305btUqEKaf0k&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%2036080
