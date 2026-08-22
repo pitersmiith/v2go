@@ -1,2 +1,0 @@
-vless://ea6db8fa-7e15-4eb2-87f1-22004ac00061@video.she-happ.com:443?&security=tls&fp=chrome&alpn=h2&sni=video.she-happ.com&type=grpc&serviceName=&mode=gun#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%2012039
-ss://ea6db8fa-7e15-4eb2-87f1-22004ac00061@video.she-happ.com:443/?type=grpc&encryption=none&flow=&serviceName=sync.v2.SyncService&security=tls&sni=video.she-happ.com&alpn=h2&fp=chrome&packetEncoding=xudp#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%2025272

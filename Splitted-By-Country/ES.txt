@@ -1,1 +1,0 @@
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s2058.okgfwbackxyz.xyz:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u643766ue719c48fs2057.gogocs.xyz&type=tcp&headerType=none&host=s2058.okgfwbackxyz.xyz&path=%2F#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20VLESS%20%7C%2011323
