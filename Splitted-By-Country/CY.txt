@@ -1,1 +1,0 @@
-vless://6fb40f20-1581-47ea-b336-62c117037dc6@cdn1.mehfa.site:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%2013955
