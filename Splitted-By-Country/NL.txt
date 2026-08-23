@@ -1,0 +1,1 @@
+vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@985e21576e56.sueeostarrs.ir:8080?security=none&encryption=none&host=play-fe.googleapis.com&headerType=http&type=tcp#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2037083

@@ -1,0 +1,1 @@
+vless://d1ca6c5b-31d7-47d2-973e-f76ab614c0a1@edge-pl01.onevanet.ir:8891?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=EDqrelut_UGWYwaQxwt7CCCkpzKWCL_HOhA0Gh6UyUY&sid=26d20dd3b839fa72&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%2044913

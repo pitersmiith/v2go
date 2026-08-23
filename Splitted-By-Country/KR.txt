@@ -1,1 +1,0 @@
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@vip3.kaixincloud.top:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome&allowInsecure=1&type=ws&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20VLESS%20%7C%2038370
