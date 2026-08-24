@@ -1,1 +1,2 @@
-vless://dcaf2c78-c6bf-48d1-a325-7b6607f10e37@Wor3.persianshield.ir:8080?encryption=none&host=api.Persianshield.ir&path=%2F&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2016591
+vless://02040510-0a2a-42ff-90d3-05a6b9459c80@del.fattsh8.ir:443?type=tcp&encryption=none&security=reality&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&fp=chrome&sni=www.speedtest.net&sid=2641062b76c9&spx=%2F#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2012572
+vless://a9bd0c66-adf9-4627-9034-dbbab9ed223d@alman.vipphoneshop.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Alman.vipphoneshop.ir&path=%2Fws&security=tls&sni=Alman.vipphoneshop.ir&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2015157
