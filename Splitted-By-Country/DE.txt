@@ -1,0 +1,2 @@
+vless://2a91d838-e5c6-452d-9a17-d20cbea75cfb@a.bia2goni.site:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=h1.ihoma.site&sni=h1.ihoma.site&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2030615
+vless://e5b1639f-1ca9-430a-8581-800e418ab4c9@f.bia2goni.site:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=h1.ihoma.site&sni=h1.ihoma.site&fp=chrome&alpn=h2,http/1.1#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2045018
