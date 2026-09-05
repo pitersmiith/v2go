@@ -1,1 +1,0 @@
-vless://7b102311-43fd-4e8f-877e-8090623c101d@ipv4.ircf.space:443?&security=tls&fp=chrome&sni=vp28.cc.cd&type=ws&headerType=none&host=vp28.cc.cd&path=%2F#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2046913
