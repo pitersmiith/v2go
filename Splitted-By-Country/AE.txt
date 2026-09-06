@@ -1,0 +1,2 @@
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%203290
+ss://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20SS%20%7C%207053
