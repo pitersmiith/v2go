@@ -1,1 +1,0 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?security=tls&type=ws&path=/&host=d21kxk4wisidbjifybg3.redjilas.ir&packetEncoding=xudp&sni=d21kxk4wisidbjifybg3.redjilas.ir&fp=chrome#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2029771

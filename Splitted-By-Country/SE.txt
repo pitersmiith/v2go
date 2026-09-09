@@ -1,1 +1,0 @@
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@ru.fixcore.top:443?flow=xtls-rprx-vision&sni=ru.fixcore.top&security=reality&pbk=I-lsQ4W4Ya7CxeaQkgrNygO8Z-uzTiyxfjkVJNqv9FY&sid=81eaf4b4fb3ebb53&spx=/&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2047840
