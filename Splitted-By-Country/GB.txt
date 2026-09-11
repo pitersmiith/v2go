@@ -1,0 +1,1 @@
+vless://451e66db-b18f-4e29-a670-1431353f9b28@u8mr7pbu34jf.gorvexo.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=3890e4ea49687ca1#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%2032109
