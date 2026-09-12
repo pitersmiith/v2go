@@ -1,0 +1,2 @@
+vless://3680bd8f-dd3e-4139-bd40-19614384d088@mtna.v2plus.ovh:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=3wZrJxpkNJ.rz0045er.ir.&fp=firefox&type=ws&allowInsecure=0&sni=pass68future.rz0045er.ir#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2011172
+vless://93dc17de-6fc3-4aad-8bc8-c03b1ca5b750@mtna.v2plus.ovh:2083?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=yKKGJsejEc.rz0045er.ir.&security=tls&fp=firefox&alpn=http%2F1.1%2Ch2&sni=padash8future.rz0045er.ir#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2033955
