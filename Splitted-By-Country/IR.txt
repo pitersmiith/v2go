@@ -1,0 +1,3 @@
+vless://09e90d43-f7de-48ef-947f-c584144f75d9@uae1-ravannet-dl-persianmusics.xirnaro.ir:20588?path=/api/v2/movies/download/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uae1-ravannet-dl-persianmusics.xirnaro.ir&fp=chrome&type=ws&allowInsecure=0&sni=uae1-ravannet-dl-persianmusics.xirnaro.ir#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2013305
+vless://92e236d4-0541-4e6e-8889-015758d51469@m2client.tabloo-face.ir:47832?security=tls&encryption=none&headerType=none&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2013881
+trojan://oNSynuMsEs@iv.poloo.ir:5060?security=tls&headerType=none&type=tcp&sni=sv1.ahsg.top#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%2048110
