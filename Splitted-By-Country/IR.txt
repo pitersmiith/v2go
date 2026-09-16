@@ -1,2 +1,1 @@
-vless://dcaf2c78-c6bf-48d1-a325-7b6607f10e37@Wor3.persianshield.ir:8080?encryption=none&host=api.Persianshield.ir&path=%2F&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2019183
-vless://378badd8-c0ab-4b2c-b3b2-2f6436beb94a@nl.trackless.sbs:19621?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=TgNVzF1zG7WgFLL77TyvvhoWID2Z27GSwkxfnAkUvg8&sid=62472732d598224c&allowinsecure=0&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2035219
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSDNSc2wxX1h2U09WNFZyZkhoYVRDZlZDdDZfMllabQ@ir.appcity-download.ir:26132#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20SS%20%7C%2040442
