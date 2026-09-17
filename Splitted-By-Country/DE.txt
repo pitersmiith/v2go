@@ -1,2 +1,0 @@
-vless://a11906b5-27a9-4ce5-a825-3bcd0f4661e9@htz.athforce.ir:31868?security=&encryption=none&host=my.htz.athforce.ir&headerType=http&type=tcp#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%208116
-ss://a11906b5-27a9-4ce5-a825-3bcd0f4661e9@htz.athforce.ir:31868?security=&encryption=none&host=my.htz.athforce.ir&headerType=http&type=tcp#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20SS%20%7C%2030977
