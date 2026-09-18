@@ -1,2 +1,2 @@
-vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@www.parspack.com:2052?encryption=none&host=Rubika.ir.join.ELiV2.no1.vless.Sitespeedtest.net.&path=%2FTel--%40ELiV2--%40ELiV2--%40ELiV2-%2F%3Fed%3D1024&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%206175
-ss://YWVzLTI1Ni1nY206OGRlYWVlYTgtMjRhYy00YmVmLWIzMzUtMzE0ZDhiZjlkZjk5@srv3.oxypingbot.in:19208#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20SS%20%7C%2047255
+vless://378badd8-c0ab-4b2c-b3b2-2f6436beb94a@nl.trackless.sbs:19621?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=TgNVzF1zG7WgFLL77TyvvhoWID2Z27GSwkxfnAkUvg8&sid=62472732d598224c&allowinsecure=0&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2015043
+ss://YWVzLTI1Ni1nY206OGRlYWVlYTgtMjRhYy00YmVmLWIzMzUtMzE0ZDhiZjlkZjk5@srv3.oxypingbot.in:19208#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20SS%20%7C%2044264
