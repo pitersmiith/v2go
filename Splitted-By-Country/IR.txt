@@ -1,1 +1,1 @@
-trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv1.hosttbd.ir:10001?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%2048289
+trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv1.hosttbd.ir:10001?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20TROJAN%20%7C%2048306
