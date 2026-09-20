@@ -1,0 +1,1 @@
+vless://ba7d5e6e-e0a6-4d74-ac12-ae36ab3fbbbd@nether.pelzimo.ir:6700?type=tcp&fp=chrome&security=reality&headerType=none&sni=play.google.com&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2023884
