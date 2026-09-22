@@ -1,0 +1,1 @@
+vless://e4ed69f2-7549-4e01-80f0-6e3cceb06c0c@site.walking-with-death.space:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=site.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=site.walking-with-death.space#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2048839
