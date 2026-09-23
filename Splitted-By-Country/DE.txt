@@ -1,0 +1,1 @@
+vless://514e9c69-6d1d-492c-ace6-3ad8722c7d07@runner.pcapps.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2018898
