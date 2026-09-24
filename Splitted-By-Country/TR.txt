@@ -1,1 +1,0 @@
-vless://352aedf1-65a6-4c0c-804f-09af1c47622f@tr1.ez0535.ir:443?security=reality&encryption=none&pbk=fA8As1TvFNjfeblqD7O9EIO6t_przOR5sDqqZ9NvcX0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%2048174
