@@ -1,1 +1,1 @@
-vless://60bcdc9e-9dbc-405e-a3c3-abacb65d017f@iran.mersconnect.ir:8392?security=reality&encryption=none&pbk=lczfo2hU9dpq63bCK26_3V0dZwQWu_5vrScV6AUDyQU&headerType=none&fp=chrome&type=tcp&sni=www.oracle.com&sid=1664#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%2048760
+ss://YWVzLTI1Ni1nY206OGRlYWVlYTgtMjRhYy00YmVmLWIzMzUtMzE0ZDhiZjlkZjk5@srv3.oxypingbot.in:19208#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20SS%20%7C%2045076
