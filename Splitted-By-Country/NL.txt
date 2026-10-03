@@ -1,3 +1,0 @@
-vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?sni=cd-sr1.k8k8110.com&alpn=h3&type=ws&host=cd-sr1.k8k8110.com&path=/fp=chrome&security=tls#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%205663
-vless://ba7d5e6e-e0a6-4d74-ac12-ae36ab3fbbbd@nether.pelzimo.ir:6700?type=tcp&fp=chrome&security=reality&headerType=none&sni=play.google.com&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2037550
-ss://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?&#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2058242
