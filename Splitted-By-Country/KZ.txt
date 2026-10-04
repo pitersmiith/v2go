@@ -1,0 +1,2 @@
+vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20VLESS%20%7C%206801
+vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?&security=tls&fp=chrome&sni=base3.korvian.ir&type=tcp&headerType=none&host=old2.v2xpin.de&path=%2F#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20VLESS%20%7C%2049087
